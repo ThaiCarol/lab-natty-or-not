@@ -8,6 +8,9 @@ Um conto de ficção científica que segue Dimitri, um ex-militar com super pode
 IA Generativa: ChatGPT - para gerar roteirização e estruturar a trama e personagens.
 IA Generativa Leonardo AI para criar a arte visual do e-book;
 Ferramenta de edição de texto: Word.
+Canva - para editar a capa do livro.
+Ilove PDF para inserir a capa no pdf do livro.
+Convertio para converter o arquivo PDF em EPUB.
 
 🧐 Processo de Criação:
 A história foi desenvolvida a partir de uma premissa inicial e aprimorada com a ajuda da IA para criar diálogos, explorar personagens e cenários de forma dinâmica.
